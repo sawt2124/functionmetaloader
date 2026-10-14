@@ -1,0 +1,2 @@
+-- if you're trying to deobfuscate, this uses an sdk library and has anti tamper built in, this site also logs your ip, :D
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/d09f602cece9f34810730593c3c397b0ae4eca7ba91b0dffac8a5121bd253ced/download"))()
